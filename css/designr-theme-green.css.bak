@@ -53,14 +53,6 @@ h1 {
     letter-spacing:0.02em;
 }
 
-bemo_login {
-    font-size:30px;
-    line-height:30px;
-    font-weight:300;
-    text-transform:uppercase;
-    letter-spacing:0.02em;
-}
-
 h1.section-title{
     position:relative;
     margin:0 0 124px;
